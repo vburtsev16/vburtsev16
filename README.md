@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is Vladimir, I'm junior ML developer. 
-My Telegram: @Korwax109
+My Telegram: @stepz_4K
 
 
 
